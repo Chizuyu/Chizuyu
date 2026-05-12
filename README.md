@@ -56,7 +56,6 @@ I'm a passionate student developer who loves exploring how things work behind th
 ---
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
-<br />
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chizuyu/Chizuyu/output/github-contribution-grid-snake-dark.svg" />
@@ -67,12 +66,12 @@ I'm a passionate student developer who loves exploring how things work behind th
 
 ---
 
-### 📬 Connect with me
-<p align="left">
-  <a href="mailto:hazamiyazid4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/hazaamii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
+ <h2 align="center"> 📬 Connect with me </h2>
+  <div align="center">
+      <a href="mailto:hazamiyazid4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <a href="https://instagram.com/hazaamii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  </div>
+  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
