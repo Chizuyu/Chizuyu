@@ -1,7 +1,7 @@
 # Hi there, I'm Yazid! 👋
 ### 💻 Software Engineer | Mobile & Web Developer
 
-I'm a passionate developer focused on building robust applications. Currently working with a diverse stack ranging from Desktop applications with **C#** to modern web apps with **Laravel**.
+I am a developer who loves building robust applications across different platforms. From Desktop systems with **C# & LINQ** to Mobile apps with **Kotlin & Java**, and Web solutions using **Laravel**.
 
 ---
 
@@ -9,20 +9,33 @@ I'm a passionate developer focused on building robust applications. Currently wo
 
 **Languages & Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,php,laravel,kotlin,dotnet" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=cs,java,kotlin,php,laravel,dotnet" alt="Backend" />
 </p>
 
-**Frontend & Tools**
+**Database & Query Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,vscode,visualstudio,androidstudio" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Database" />
+  <!-- LINQ Badge -->
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="LINQ" />
 </p>
+
+**Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,androidstudio,postman" alt="Tools" />
+</p>
+
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chizuyu&show_icons=true&theme=radical&rank_icon=github" alt="Chizuyu's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chizuyu&layout=compact&theme=radical" alt="Top Langs" />
+  <!-- Trophies: Menampilkan piala berdasarkan pencapaianmu (Lebih stabil dari stats) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Chizuyu&theme=radical&column=7" alt="Trophies" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak: Menampilkan seberapa sering kamu commit -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chizuyu&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
