@@ -1,11 +1,17 @@
-<!-- Header Banner Animasi -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Yazid%20🚀&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Chizuyu&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
-<!-- Typing Effect untuk Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;C%23+%2F+.NET+Specialist;Laravel+%26+PHP+Developer;Android+Dev+(Kotlin+%26+Java)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Muhammad+Yazid+Hazami;Software+Engineer;C%23+%2F+.NET+Specialist;Laravel+%26+PHP+Developer;Android+Dev+(Kotlin+%26+Java)" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chizuyu&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Chizuyu" />
+  
+  <a href="https://github.com/Chizuyu?tab=followers">
+    <img src="https://img.shields.io/github/followers/Chizuyu?style=for-the-badge&labelColor=1e1e2e&color=89b4fa" alt="followers" />
+  </a>
 </p>
 
 ---
