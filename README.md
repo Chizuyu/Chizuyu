@@ -21,7 +21,7 @@ I'm a passionate student developer who loves exploring how things work behind th
 
 - 🎓 11th Grade Student
 - 🏫 Currently studying my skills in **Software Engineering**
-- 💻 Web & Mobile Developer
+- 💻 Mobile, Desktop and Web Developer
 - 🌐 Always excited to **collaborate, learn, and create meaningful tech solutions**
 - 🌱 Deep diving into **LINQ Optimization, Laravel Ecosystem, and Android Development**
 - ⚡ Fun fact: **"I balance school life with a lot of semicolons ;"**
