@@ -13,35 +13,30 @@
 ### 💫 About Me
 I'm a passionate student developer who loves exploring how things work behind the scenes. Even while studying, I've dedicated my time to building real-world applications across various platforms. I'm always eager to learn new technologies and improve my coding skills.
 
+- 🎓 11th Grade Student
 - 🏫 Currently studying and honing my skills in **Software Engineering**
 - 🚀 I have built **11+ projects** (6 Desktop, 4 Web, and 1 Mobile app)
 - 🌱 Deep diving into **LINQ Optimization, Laravel Ecosystem, and Android Development**
 - ⚡ Fun fact: **"I balance school life with a lot of semicolons ;"**
 
 ---
+  <h2 align="center">⚒️ Tech Stacks ⚒️</h2>
+  <div align="center">
+    
+  <h3> Programming Languages </h3>
+    <img src="https://skillicons.dev/icons?i=cs,java,kotlin,php,js,html,css" />
 
-### 🛠 Tech Stack
+  <h3> Frameworks & Databases </h3>
+    <img src="https://skillicons.dev/icons?i=laravel,dotnet,mysql,sqlite" />
 
-**Programming Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,java,kotlin,php,js,html,css" />
-</p>
+  <h3> Query & Special Skills </h3>
+    <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-**Frameworks & Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,dotnet,mysql,sqlite" />
-</p>
+   <h3> Tools </h3> 
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,git,postman,figma" />
 
-**Query & Special Skills**
-<p align="left">
-  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-**Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,git,postman,figma" />
-</p>
+</div>
 
 ---
 
@@ -53,27 +48,17 @@ I'm a passionate student developer who loves exploring how things work behind th
 
 ---
 
-### 📂 Featured Projects
-
-<!-- Project 1: Laravel -->
-<a href="https://github.com/Chizuyu/Marketplace">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chizuyu&repo=Marketplace&theme=radical" />
-</a>
-<!-- Project 2: C# -->
-<a href="https://github.com/Chizuyu/BromoAirlines">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chizuyu&repo=BromoAirlines&theme=radical" />
-</a>
+<h2 align="center">🐍 My Contributions 🐍</h2>
+<br />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chizuyu/Chizuyu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chizuyu/Chizuyu/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Chizuyu/Chizuyu/output/github-snake.svg" />
+  </picture>
+</div>
 
 <br />
-
-<!-- Project 3: Kotlin -->
-<a href="https://github.com/Chizuyu/Blogger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chizuyu&repo=Blogger&theme=radical" />
-</a>
-<!-- Project 4: PHP Native -->
-<a href="https://github.com/Chizuyu/Website-kos-revan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chizuyu&repo=Website-kos-revan&theme=radical" />
-</a>
 
 ---
 
