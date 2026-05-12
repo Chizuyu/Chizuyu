@@ -20,8 +20,9 @@
 I'm a passionate student developer who loves exploring how things work behind the scenes. Even while studying, I've dedicated my time to building real-world applications across various platforms. I'm always eager to learn new technologies and improve my coding skills.
 
 - 🎓 11th Grade Student
-- 🏫 Currently studying and honing my skills in **Software Engineering**
-- 🚀 I have built **11+ projects** (6 Desktop, 4 Web, and 1 Mobile app)
+- 🏫 Currently studying my skills in **Software Engineering**
+- 💻 Web & Mobile Developer
+- 🌐 Always excited to **collaborate, learn, and create meaningful tech solutions**
 - 🌱 Deep diving into **LINQ Optimization, Laravel Ecosystem, and Android Development**
 - ⚡ Fun fact: **"I balance school life with a lot of semicolons ;"**
 
