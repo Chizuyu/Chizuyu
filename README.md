@@ -53,6 +53,30 @@ I'm a passionate student developer who loves exploring how things work behind th
 
 ---
 
+### 📂 Featured Projects
+
+<!-- Project 1: Laravel -->
+<a href="https://github.com/Chizuyu/Marketplace">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chizuyu&repo=Marketplace&theme=radical" />
+</a>
+<!-- Project 2: C# -->
+<a href="https://github.com/Chizuyu/BromoAirlines">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chizuyu&repo=BromoAirlines&theme=radical" />
+</a>
+
+<br />
+
+<!-- Project 3: Kotlin -->
+<a href="https://github.com/Chizuyu/Blogger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chizuyu&repo=Blogger&theme=radical" />
+</a>
+<!-- Project 4: PHP Native -->
+<a href="https://github.com/Chizuyu/Website-kos-revan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chizuyu&repo=Website-kos-revan&theme=radical" />
+</a>
+
+---
+
 ### 📬 Connect with me
 <p align="left">
   <a href="mailto:hazamiyazid4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
