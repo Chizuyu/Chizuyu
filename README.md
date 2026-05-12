@@ -28,10 +28,6 @@ I am a developer who loves building robust applications across different platfor
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <!-- Trophies: Menampilkan piala berdasarkan pencapaianmu (Lebih stabil dari stats) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Chizuyu&theme=radical&column=7" alt="Trophies" />
-</p>
 
 <p align="center">
   <!-- GitHub Streak: Menampilkan seberapa sering kamu commit -->
