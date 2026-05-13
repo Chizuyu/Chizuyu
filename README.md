@@ -47,7 +47,7 @@ I'm a passionate student developer who loves exploring how things work behind th
 
 ---
 
-### 📊 My Stats
+<h2 align="center"> 📊 My Stats </h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chizuyu&theme=radical" width="70%" />
