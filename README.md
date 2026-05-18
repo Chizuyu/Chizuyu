@@ -10,7 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=Chizuyu&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Chizuyu" />
   
   <a href="https://github.com/Chizuyu?tab=followers">
-    <img src="https://img.shields.io/github/followers/Chizuyu?style=for-the-badge&labelColor=1e1e2e&color=89b4fa" alt="followers" />
+  <img 
+    src="https://img.shields.io/github/followers/Chizuyu?style=for-the-badge&labelColor=1e1e2e&color=89b4fa&cacheSeconds=60" 
+    alt="GitHub followers" />
   </a>
 </p>
 
