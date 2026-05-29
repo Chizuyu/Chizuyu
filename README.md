@@ -73,7 +73,7 @@ I'm a passionate student developer who loves exploring how things work behind th
   <div align="center">
       <a href="mailto:hazamiyazid4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       <a href="https://instagram.com/hazaamii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-      <a href="[https://linkedin.com](https://www.linkedin.com/in/muhammad-yazid-hazami-a35520410/?locale=en-US)" ><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      <a href="https://www.linkedin.com/in/muhammad-yazid-hazami-a35520410/?locale=en-US" ><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </div>
   
 <p align="center">
