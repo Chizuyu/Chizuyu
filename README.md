@@ -69,12 +69,12 @@ I'm a passionate student developer who loves exploring how things work behind th
 
 ---
 
- <h2 align="center"> 📬 Connect with me </h2>
-  <div align="center">
-      <a href="mailto:hazamiyazid4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      <a href="https://instagram.com/hazaamii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-      <a href="https://www.linkedin.com/in/muhammad-yazid-hazami-a35520410/?locale=en-US" ><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </div>
+<h2 align="center"> 📬 Connect with me </h2>
+<div align="center">
+    <a href="mailto:hazamiyazid4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://instagram.com/hazaamii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/muhammad-yazid-hazami-a35520410/?locale=en-US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-      badge&logo=linkedin&logoColor=white" /></a>
+</div>
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
