@@ -34,10 +34,10 @@ I'm a passionate student developer who loves exploring how things work behind th
   <div align="center">
     
   <h3> Programming Languages </h3>
-    <img src="https://skillicons.dev/icons?i=cs,java,kotlin,php,js" />
+    <img src="https://skillicons.dev/icons?i=cs,java,kotlin,php,js,ts" />
 
   <h3> Frameworks & Databases </h3>
-    <img src="https://skillicons.dev/icons?i=laravel,dotnet,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=laravel,dotnet,mysql,sqlite,next" />
 
   <h3> Query & Special Skills </h3>
     <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
