@@ -70,10 +70,24 @@
     Muhammad Yazid Hazami
   </text>
   <text x="124" y="212" fill="#D7F3FF" font-family="Poppins, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">
-    Software Engineer · UI/UX
+    Software Engineer · UI/UX · Junior Mobile Developer
   </text>
 
   <g opacity="0.96">
+    
+    <rect x="320" y="236" width="86" height="34" rx="17" fill="url(#tagFill)"/>
+    <rect x="320.5" y="236.5" width="85" height="33" rx="16.5" stroke="white" stroke-opacity="0.11"/>
+    <g transform="translate(363 253) scale(0.72)">
+      <path d="M-1.5 -15.2 C-0.6 -15.7 0.6 -15.7 1.5 -15.2 L13.2 -8.5 C14.2 -7.9 14.8 -6.8 14.8 -5.6 L14.8 -4 L0 -12.5 L-14.8 -4 L-14.8 -5.6 C-14.8 -6.8 -14.2 -7.9 -13.2 -8.5 Z" fill="#2CBA75"/>
+      <path d="M-14.8 -4 L0 -12.5 L14.8 -4 L9 -0.6 L0 -5.8 L-9 -0.6 Z" fill="#2CBA75"/>
+      <path d="M-14.8 -4 L-9 -0.6 L-9 7.2 L0 12.4 L0 15.5 C0 16 0.3 16 0.3 16 L-13.2 8.2 C-14.2 7.6 -14.8 6.5 -14.8 5.3 Z" fill="#073042"/>
+      <path d="M14.8 -4 L9 -0.6 L9 7.2 L0 12.4 L0 15.5 C0 16 -0.3 16 -0.3 16 L13.2 8.2 C14.2 7.6 14.8 6.5 14.8 5.3 Z" fill="#4285F4"/>
+      <path d="M0 -5.8 L9 -0.6 L6 1.1 L0 -2.4 L-6 1.1 L-9 -0.6 Z" fill="#1E935B"/>
+      <path d="M-9 -0.6 L-6 1.1 L-6 6.1 L0 9.6 L0 12.4 L-9 7.2 Z" fill="#031E2A"/>
+      <path d="M9 -0.6 L6 1.1 L6 6.1 L0 9.6 L0 12.4 L9 7.2 Z" fill="#2E63C7"/>
+      <path d="M0 -2.4 L6 1.1 L6 6.1 L0 9.6 L-6 6.1 L-6 1.1 Z" fill="#D0E8FA"/>
+    </g>
+    
     <rect x="124" y="236" width="78" height="34" rx="17" fill="url(#tagFill)"/>
     <rect x="124.5" y="236.5" width="77" height="33" rx="16.5" stroke="white" stroke-opacity="0.11"/>
     <g transform="translate(152 253)">
@@ -90,18 +104,6 @@
       <path d="M85 85H75V60L85 72.5V85Z" fill="white"/>
     </g>
 
-    <rect x="320" y="236" width="86" height="34" rx="17" fill="url(#tagFill)"/>
-    <rect x="320.5" y="236.5" width="85" height="33" rx="16.5" stroke="white" stroke-opacity="0.11"/>
-    <g transform="translate(363 253) scale(0.72)">
-      <path d="M-1.5 -15.2 C-0.6 -15.7 0.6 -15.7 1.5 -15.2 L13.2 -8.5 C14.2 -7.9 14.8 -6.8 14.8 -5.6 L14.8 -4 L0 -12.5 L-14.8 -4 L-14.8 -5.6 C-14.8 -6.8 -14.2 -7.9 -13.2 -8.5 Z" fill="#2CBA75"/>
-      <path d="M-14.8 -4 L0 -12.5 L14.8 -4 L9 -0.6 L0 -5.8 L-9 -0.6 Z" fill="#2CBA75"/>
-      <path d="M-14.8 -4 L-9 -0.6 L-9 7.2 L0 12.4 L0 15.5 C0 16 0.3 16 0.3 16 L-13.2 8.2 C-14.2 7.6 -14.8 6.5 -14.8 5.3 Z" fill="#073042"/>
-      <path d="M14.8 -4 L9 -0.6 L9 7.2 L0 12.4 L0 15.5 C0 16 -0.3 16 -0.3 16 L13.2 8.2 C14.2 7.6 14.8 6.5 14.8 5.3 Z" fill="#4285F4"/>
-      <path d="M0 -5.8 L9 -0.6 L6 1.1 L0 -2.4 L-6 1.1 L-9 -0.6 Z" fill="#1E935B"/>
-      <path d="M-9 -0.6 L-6 1.1 L-6 6.1 L0 9.6 L0 12.4 L-9 7.2 Z" fill="#031E2A"/>
-      <path d="M9 -0.6 L6 1.1 L6 6.1 L0 9.6 L0 12.4 L9 7.2 Z" fill="#2E63C7"/>
-      <path d="M0 -2.4 L6 1.1 L6 6.1 L0 9.6 L-6 6.1 L-6 1.1 Z" fill="#D0E8FA"/>
-    </g>
 
     
   </g>
