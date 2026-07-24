@@ -1,19 +1,15 @@
 # <img src="./assets/profile-banner.svg" alt="Muhammad Yazid Hazami banner" width="100%" />
 
-<!-- <h1 align="center">Muhammad Raja Daffa</h1> -->
 <p align="center">
-  <!-- <strong>Rza</strong><br /> -->
   ☕ Coding Enthusiast | 🎨 UI/UX | Software Engineer
 </p>
 
 <p align="center">
-  <a href="https://rzadaffa.netlify.app">Portfolio</a>
+  <a href="https://yazid-archive.vercel.app">Portfolio</a>
   ·
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/muhammad-yazid-hazami-a35520410/?locale=en-US">LinkedIn</a>
   ·
-  <a href="https://www.tiktok.com/@rzadaffa_">TikTok</a>
-  ·
-  <a href="mailto:muhammadrajadaffa@gmail.com">Email</a>
+  <a href="mailto:hazamiyazid01@gmail.com">Email</a>
 </p>
 
 <p align="center">
@@ -26,47 +22,40 @@
   </a>
 </p>
 
----
-
-### 💫 About Me
+## About Me
 I'm a passionate student developer who loves exploring how things work behind the scenes. Even while studying, I've dedicated my time to building real-world applications across various platforms. I'm always eager to learn new technologies and improve my coding skills.
 
-- 🎓 11th Grade Student
-- 🏫 Currently focused studying my skills in **Software Engineering**
-- 💻 Mobile and Desktop Developer
-- 🌐 Visit me On https://yazid-archive.vercel.app/
-- 🌐 Always excited to **collaborate, learn, and create meaningful tech solutions**
-- 🌱 Deep diving into **LINQ Optimization, Laravel Ecosystem, and Android Development**
-- ⚡ Fun fact: **"I balance school life with a lot of semicolons ;"**
+## Tech Stack
 
----
-  <h2 align="center">⚒️ Tech Stacks ⚒️</h2>
-  <div align="center">
-    
-  <h3> Programming Languages </h3>
-    <img src="https://skillicons.dev/icons?i=cs,java,kotlin,php,js,ts" />
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/draw.io-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705" alt="draw.io" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=22C55E" alt="REST API" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/.NET-111827?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt=".NET"/>
+  <img src="https://img.shields.io/badge/JAVA-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+  <img src="https://img.shields.io/badge/KOTLIN-111827?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt ="Kotlin"/>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C%23-111827?style=for-the-badge&logo=csharp&logoColor=512BD4" alt="C#"/>
+  <img src="https://img.shields.io/badge/JETPACK_COMPOSE-111827?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/SQLITE-111827?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/ANDROID_STUDIO-111827?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" alt="Android Studio"/>
+</p>
 
-  <h3> Frameworks & Databases </h3>
-    <img src="https://skillicons.dev/icons?i=laravel,dotnet,mysql,sqlite,next" />
-
-  <h3> Query & Special Skills </h3>
-    <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-   <h3> Tools </h3> 
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,git,postman,figma" />
-
-</div>
-
----
-
-<h2 align="center"> 📊 My Stats </h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chizuyu&theme=radical" width="70%" />
 </p>
-
----
 
 <div align="center">
   <picture>
@@ -76,17 +65,3 @@ I'm a passionate student developer who loves exploring how things work behind th
   </picture>
 </div>
 
----
-
-<h2 align="center"> 📬 Connect with me </h2>
-<div align="center">
-    <a href="mailto:hazamiyazid4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://instagram.com/hazaamii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/muhammad-yazid-hazami-a35520410/?locale=en-US">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</div>
-  
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</p>
