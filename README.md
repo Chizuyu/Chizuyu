@@ -1,7 +1,7 @@
 # <img src="./assets/profile-banner.svg" alt="Muhammad Yazid Hazami banner" width="100%" />
 
 <p align="center">
-  ☕ Coding Enthusiast | 🎨 UI/UX | Software Engineer
+  ☕ Coding Enthusiast | 🎨 UI/UX | Software Engineer | Junior Mobile Developer
 </p>
 
 <p align="center">
@@ -50,6 +50,7 @@ I'm a passionate student developer who loves exploring how things work behind th
   <img src="https://img.shields.io/badge/JETPACK_COMPOSE-111827?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Jetpack Compose"/>
   <img src="https://img.shields.io/badge/SQLITE-111827?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite"/>
   <img src="https://img.shields.io/badge/ANDROID_STUDIO-111827?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/SWAGGER-111827?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="Swagger"/>
 </p>
 
 
