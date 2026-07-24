@@ -1,9 +1,19 @@
+# <img src="./assets/profile-banner.svg" alt="Muhammad Yazid Hazami banner" width="100%" />
+
+<!-- <h1 align="center">Muhammad Raja Daffa</h1> -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Chizuyu&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <!-- <strong>Rza</strong><br /> -->
+  ☕ Coding Enthusiast | 🎨 UI/UX | Software Engineer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Muhammad+Yazid+Hazami;Software+Engineer;C%23+%2F+.NET+Specialist;Laravel+%26+PHP+Developer;Android+Dev+(Kotlin+%26+Java)" alt="Typing SVG" />
+  <a href="https://rzadaffa.netlify.app">Portfolio</a>
+  ·
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  ·
+  <a href="https://www.tiktok.com/@rzadaffa_">TikTok</a>
+  ·
+  <a href="mailto:muhammadrajadaffa@gmail.com">Email</a>
 </p>
 
 <p align="center">
