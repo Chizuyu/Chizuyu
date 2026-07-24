@@ -1,32 +1,28 @@
-name: Generate Puzzle Bobble Contribution Graph
+name: Generate Pac-Man Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
   workflow_dispatch:
   push:
     branches:
       - main
 
-permissions:
-  contents: write
-
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 20
-
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
-      - name: Generate contribution graph SVGs
+      - name: generate contribution graph SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: rhellokitty
-          games: "puzzle-bobble"
+          github_user_name: ${{ github.repository_owner }}
 
-      - name: Push SVGs to output branch
+      - name: Push Pac-Man SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
