@@ -59,10 +59,15 @@ I'm a passionate student developer who loves exploring how things work behind th
 </p>
 
 <div align="center">
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chizuyu/Chizuyu/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chizuyu/Chizuyu/output/pacman-contribution-graph.svg" />
     <img src="https://github.com/Chizuyu/Chizuyu/blob/output/pacman-contribution-graph-dark.svg?raw=true" alt="Pacman Contributions" width="100%" />
+  </picture> -->
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/puzzle-bobble-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/puzzle-bobble-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/puzzle-bobble-contribution-graph-dark.svg" alt="Puzzle Bobble-style contribution graph" width="100%" />
   </picture>
 </div>
 
