@@ -2,7 +2,7 @@ name: generate arcade contribution graphs
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
   push:
     branches:
@@ -16,13 +16,24 @@ jobs:
       timeout-minutes: 20
       
       steps:
+        # 1. Checkout repositori agar runner mengenali workspace Anda
+        - name: Checkout repository
+          uses: actions/checkout@v4
+
+        # 2. Menghasilkan SVG kontribusi Pac-man
         - name: generate contribution graph SVGs
           uses: abozanona/pacman-contribution-graph@main
           with:
             github_user_name: ${{ github.repository_owner }}
-            # Mengubah game menjadi pacman
             games: 'pacman'
 
+        # 3. Membuat folder 'dist' dan memindahkan file SVG ke dalamnya
+        - name: Move SVGs to dist directory
+          run: |
+            mkdir -p dist
+            mv pacman-contribution-graph*.svg dist/ || true
+
+        # 4. Melakukan push isi folder 'dist' ke branch 'output'
         - name: push SVGs to the output branch
           uses: crazy-max/ghaction-github-pages@v3.1.0
           with:
