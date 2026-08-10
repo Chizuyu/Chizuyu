@@ -1,8 +1,6 @@
 # <img src="./assets/profile-banner.svg" alt="Muhammad Yazid Hazami banner" width="100%" />
 
-<p align="center">
-  ☕ Coding Enthusiast | 🎨 UI/UX | Software Engineer | Junior Developer
-</p>
+
 
 <p align="center">
   <a href="https://yazid-archive.vercel.app">Portfolio</a>
