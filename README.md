@@ -49,10 +49,18 @@ I'm a passionate student developer who loves exploring how things work behind th
   <img src="https://img.shields.io/badge/SWAGGER-111827?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="Swagger"/>
 </p>
 
+<div align="center">
+ <img
+    width="500px"
+    align="center"
+    src="https://github-readme-streak-stats-salesp07.vercel.app?user=shirurino&theme=radical&count_private=true"
+    alt="streak stats"
+  />
+</div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chizuyu&theme=radical" width="70%" />
-</p>
+</p> -->
 
 <div align="center">
   <!-- <picture>
