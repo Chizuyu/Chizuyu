@@ -1,7 +1,6 @@
 # <img src="./assets/profile-banner.svg" alt="Muhammad Yazid Hazami banner" width="100%" />
 
 
-
 <p align="center">
   <a href="https://yazid-archive.vercel.app">Portfolio</a>
   ·
@@ -53,10 +52,11 @@ I'm a passionate student developer who loves exploring how things work behind th
  <img
     width="500px"
     align="center"
-    src="https://github-readme-streak-stats-salesp07.vercel.app?user=chizuyu&theme=radical&count_private=true"
+    src="https://github-readme-streak-stats-salesp07.vercel.app?user=chizuyu&theme=tokyonight&count_private=true"
     alt="streak stats"
   />
 </div>
+<br/>
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chizuyu&theme=radical" width="70%" />
