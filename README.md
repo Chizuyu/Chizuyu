@@ -53,7 +53,7 @@ I'm a passionate student developer who loves exploring how things work behind th
  <img
     width="500px"
     align="center"
-    src="https://github-readme-streak-stats-salesp07.vercel.app?user=shirurino&theme=radical&count_private=true"
+    src="https://github-readme-streak-stats-salesp07.vercel.app?user=chizuyu&theme=radical&count_private=true"
     alt="streak stats"
   />
 </div>
